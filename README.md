@@ -1,3 +1,3 @@
 # Orion's .files
 
-This repository is just about my dot-files and other configurations.
+This repository contains my configuration files for various software I use or used in the past.
